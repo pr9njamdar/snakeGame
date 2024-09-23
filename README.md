@@ -21,7 +21,7 @@ Welcome to the **Snake Game** built using [Phaser.js](https://phaser.io/). In th
 4. Aim for the highest score!
 
 ## Screen Shot
-screenshot/ss1.png
+![Game Screenshot](screenshot/ss1.png)
 
-screenshot/ss1.png
+![Game Screenshot](screenshot/ss2.png)
 
